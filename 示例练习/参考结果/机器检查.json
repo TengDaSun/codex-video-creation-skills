@@ -1,0 +1,25 @@
+{
+  "machine_checks_passed": true,
+  "video_sha256": "c44fecf101bdd2f2919d52e7e7a4df6207f1f63576510a0b6fb119fe0ab56a97",
+  "width": 360,
+  "height": 640,
+  "duration_seconds": 6.021354,
+  "color_metadata": {
+    "color_space": "bt709",
+    "color_transfer": "bt709",
+    "color_primaries": "bt709",
+    "color_range": "tv"
+  },
+  "full_decode_passed": true,
+  "audio": {
+    "decoded_audio_seconds": 6.075,
+    "rms_dbfs": -25.89,
+    "peak_dbfs": -19.24,
+    "non_silent_signal": true,
+    "actual_listening_completed": false
+  },
+  "human_review_completed": false,
+  "phone_playback_completed": false,
+  "platform_verified": false,
+  "limitations": "Metadata and decode checks do not prove correct visual tone mapping, speech quality, subtitles or factual accuracy."
+}

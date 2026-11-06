@@ -1,0 +1,4 @@
+interface:
+  display_name: "素材整理"
+  short_description: "整理本地照片和视频，生成日期索引、重复文件清单与可选的分类副本。"
+  default_prompt: "使用 $video-organize 处理我指定的素材或视频，先检查已有设置并说明实际可执行的步骤。"

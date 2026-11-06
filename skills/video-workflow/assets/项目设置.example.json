@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "project_root": ".",
+  "folders": {
+    "source": "01_原素材",
+    "editing": "02_剪辑工程",
+    "release": "03_发布包"
+  },
+  "timezone": "",
+  "style": {
+    "status": "proposed_not_confirmed",
+    "width": 1080,
+    "height": 1920,
+    "color": "sdr_bt709_tv",
+    "headline_language": "zh",
+    "subtitle_languages": [
+      "zh"
+    ],
+    "voice": "original",
+    "music": "optional"
+  },
+  "editing_tool": "",
+  "platforms": [],
+  "archive_date_platform": "",
+  "account_labels": {},
+  "feishu": {
+    "enabled": false,
+    "organization": "",
+    "destination": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "width": 360,
+  "height": 640,
+  "fps": 30,
+  "clips": [
+    {
+      "path": "素材/示例片段1.mp4",
+      "start": 0.5,
+      "duration": 2
+    },
+    {
+      "path": "素材/示例图片.png",
+      "duration": 2,
+      "verified_srgb": true
+    },
+    {
+      "path": "素材/示例片段2.mp4",
+      "start": 0,
+      "duration": 2
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "schema_version": 1,
+  "topic": "示例主题_使用时替换",
+  "revision": "v1",
+  "production_plan": {
+    "audience": "",
+    "angle": "",
+    "opening": "",
+    "source_evidence": [],
+    "keep_and_cut": "",
+    "ending": "",
+    "tools_and_roles": [],
+    "main_project": "",
+    "text_owner": "",
+    "choice_reason": "",
+    "cost_basis": "",
+    "fallback": "",
+    "verified_scope": ""
+  },
+  "files": {
+    "video": {
+      "path": "成片.mp4",
+      "sha256": ""
+    },
+    "cover": {
+      "path": "封面.jpg",
+      "sha256": ""
+    },
+    "copy": {
+      "path": "发布文案.txt",
+      "sha256": ""
+    }
+  },
+  "review": {
+    "machine": {
+      "status": "not_run",
+      "video_sha256": "",
+      "checked_at": "",
+      "evidence": ""
+    },
+    "full_watch": {
+      "completed": false,
+      "video_sha256": "",
+      "reviewer": "",
+      "checked_at": "",
+      "evidence": ""
+    },
+    "full_listen": {
+      "completed": false,
+      "video_sha256": "",
+      "reviewer": "",
+      "checked_at": "",
+      "evidence": ""
+    },
+    "phone_playback": {
+      "completed": false,
+      "video_sha256": "",
+      "reviewer": "",
+      "checked_at": "",
+      "evidence": ""
+    },
+    "independent": {
+      "status": "not_run",
+      "video_sha256": "",
+      "scope": "",
+      "reviewer_call_id": "",
+      "method": "",
+      "evidence": "",
+      "checked_at": ""
+    }
+  },
+  "content_approval": {
+    "approved": false,
+    "video_sha256": "",
+    "cover_sha256": "",
+    "copy_sha256": "",
+    "platforms": [],
+    "instruction_evidence": ""
+  },
+  "platforms": [],
+  "platform_record_template": {
+    "platform": "",
+    "account_label": "",
+    "state": "not_submitted",
+    "authorization": {
+      "authorized": false,
+      "video_sha256": "",
+      "cover_sha256": "",
+      "copy_sha256": "",
+      "mode": "",
+      "scheduled_at": "",
+      "timezone": "",
+      "instruction_evidence": ""
+    },
+    "declarations": {
+      "original": "unverified",
+      "ai_content": "unverified"
+    },
+    "receipt": {
+      "id": "",
+      "url": "",
+      "evidence": "",
+      "checked_at": ""
+    },
+    "published_time_raw": "",
+    "published_timezone": "",
+    "platform_verification": {
+      "completed": false,
+      "evidence": "",
+      "checked_at": ""
+    }
+  },
+  "confirmed_decisions": [],
+  "pending_items": [],
+  "updated_at": ""
+}
